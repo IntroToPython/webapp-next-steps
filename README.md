@@ -6,7 +6,9 @@ So we can poke a web app, now what?
 Tutorials
 ============
 http://www.codecademy.com/en/tracks/python
+
 http://chattlibrary.org/treehouse
+
 http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 
